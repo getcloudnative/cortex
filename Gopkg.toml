@@ -4,8 +4,8 @@
   revision = "0ecc59076ca6b4cbb63252fa7720a3d89d1c81d3"
 
 [[dependencies]]
-  name = "github.com/weaveworks/common"
   branch = "master"
+  name = "github.com/weaveworks/common"
 
 [[overrides]]
   name = "github.com/Azure/azure-sdk-for-go"
